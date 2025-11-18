@@ -1,0 +1,9 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Visual Studio / other
+.vscode/
+
+# Generated Excel files (if you want to keep the built workbook in repo, remove this line)
+# *.xlsm
